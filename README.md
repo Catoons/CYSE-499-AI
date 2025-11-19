@@ -1,5 +1,7 @@
 **HW1: Implement a Python solver for ridge regression**
 
+**HW2: Create a CNN using PyTorch that can identify numbers 0-9 in images from the MNIST dataset**
+
 Course Description
 Fall 2025
 
