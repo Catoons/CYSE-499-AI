@@ -2,6 +2,9 @@
 
 **HW2: Create a CNN using PyTorch that can identify numbers 0-9 in images from the MNIST dataset**
 
+**Final Project: Create an RNN to detect phishing emails**
+
+
 Course Description
 Fall 2025
 
